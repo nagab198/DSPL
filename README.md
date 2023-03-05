@@ -1,6 +1,6 @@
 # DSPL
 
-### laravel cd to backend_laravel
+### laravel cd to backend
 run composer install
 php artisan serve
 
