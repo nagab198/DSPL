@@ -1,0 +1,7 @@
+###
+GET {{host}}/api/calling/1111
+Content-Type: application/json
+
+{
+  "api": "aaa"
+}
